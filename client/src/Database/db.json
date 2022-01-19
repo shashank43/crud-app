@@ -1,0 +1,32 @@
+{
+  "members": [
+    {
+      "firstName": "Eren",
+      "lastName": "Yeager",
+      "contactNumber": "9874561230",
+      "gender": "male",
+      "id": 1
+    },
+    {
+      "firstName": "Reiner",
+      "lastName": "Braun",
+      "contactNumber": "7894561230",
+      "gender": "male",
+      "id": 2
+    },
+    {
+      "firstName": "Mikasa",
+      "lastName": "Ackerman",
+      "contactNumber": "8974562310",
+      "gender": "female",
+      "id": 3
+    },
+    {
+      "firstName": "Sasha",
+      "lastName": "Braus",
+      "contactNumber": "7984652310",
+      "gender": "female",
+      "id": 5
+    }
+  ]
+}
